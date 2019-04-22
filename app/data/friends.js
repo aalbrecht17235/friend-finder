@@ -1,6 +1,6 @@
 var tableArray = [{
-    name: "Ahmed1",
-    photo: "https://www.simula.no/sites/default/files/styles/employee-detail/public/user/images/img_4912.jpg?itok=UyacJ0TA",
+    name: "Jacob",
+    photo: "https://www.snackncake.com/postpic/2017/03/kids-eating-breakfast-pancakes_676378.jpg",
     scores: [
       5,
       3,
@@ -14,8 +14,8 @@ var tableArray = [{
       1
     ]
   }, {
-    name: "Ahmed2",
-    photo: "https://www.simula.no/sites/default/files/styles/employee-detail/public/user/images/img_4912.jpg?itok=UyacJ0TA",
+    name: "Sally",
+    photo: "http://3.bp.blogspot.com/-rlmE5wXOXxY/UOqhftBfvfI/AAAAAAAAAyY/1jRJHnuRlsM/s1600/eating+breakfast.jpg",
     scores: [
       5,
       3,
@@ -30,8 +30,8 @@ var tableArray = [{
     ]
   },
   {
-    name: "Ahmed3",
-    photo: "https://www.simula.no/sites/default/files/styles/employee-detail/public/user/images/img_4912.jpg?itok=UyacJ0TA",
+    name: "The Johnsons",
+    photo: "https://d3bwu0f92zgi29.cloudfront.net/wp-content/uploads/2014/05/Breakfast-400x400.jpg",
     scores: [
       5,
       1,
@@ -46,8 +46,8 @@ var tableArray = [{
     ]
   },
   {
-    name: "Ahmed4",
-    photo: "https://www.simula.no/sites/default/files/styles/employee-detail/public/user/images/img_4912.jpg?itok=UyacJ0TA",
+    name: "Michael",
+    photo: "https://misc.nine.com.au/2018/stan-officetrump-9honey-quiz/img/11b.jpg",
     scores: [
       5,
       1,

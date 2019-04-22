@@ -24,3 +24,8 @@ hr {
 #match-img {
     width: 25%;
 }
+
+#main-modal {
+    width: 450px !important;
+}
+
